@@ -1,1 +1,0 @@
-# autoshopping_react_native
