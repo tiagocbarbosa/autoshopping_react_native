@@ -2,4 +2,5 @@
 
 ## References
 [React Native Paper](https://callstack.github.io/react-native-paper/index.html)
+
 [React Navigation](https://reactnavigation.org/docs/getting-started)
